@@ -1,0 +1,11 @@
+bs4
+guardrails-ai
+ipykernel
+ipywidgets
+numpy
+matplotlib
+openai
+presidio_analyzer
+presidio_anonymizer
+sentence_transformers
+torch
